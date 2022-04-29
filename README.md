@@ -1,0 +1,2 @@
+# lordnet-assets
+pass
